@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felipe Heide</h1>
 <h3 align="center">A passionate full-stack coder from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipeheide&label=Profile%20views&color=0e75b6&style=flat" alt="felipeheide" /> </p>
-
 - 🔭 I’m currently working on **making a better portfolio**
 
 - 👯 I’m looking to collaborate on **Any interesting project**
@@ -23,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeheide&show_icons=true&locale=en&layout=compact" alt="felipeheide" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipeheide&show_icons=true&locale=en" alt="felipeheide" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipeheide&" alt="felipeheide" /></p>
